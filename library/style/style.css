@@ -5,7 +5,7 @@ body {
     overflow: hidden;
     color: #ffffff !important;
     background: #1F2544 !important;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Poppins', sans-serif !important;
     font-size: .875rem !important;
     font-weight: 400;
 }
